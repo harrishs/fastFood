@@ -2,9 +2,9 @@
 1. Run npm install
 
 2. .env can hold:
-\nDB_URI = mongodb uri
-\nTOKEN = any string
-\nPORT = desired port
+DB_URI = mongodb uri. 
+TOKEN = any string. 
+PORT = desired port. 
 
 3. npm run dev to run on localhost
 
