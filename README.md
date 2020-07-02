@@ -9,7 +9,7 @@ PORT = desired port<br/>
 3. npm run dev to run on localhost
 
 
-#Dependencies
+# Dependencies
 - express
 - nodemon
 - bcrypt
