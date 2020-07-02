@@ -7,3 +7,13 @@ TOKEN = <any string>
 PORT = <desired port>
 
 3. npm run dev to run on localhost
+
+
+#Dependencies
+- express
+- nodemon
+- bcrypt
+- jsonwebtoken
+- cors
+- mongoose
+- mongodb
